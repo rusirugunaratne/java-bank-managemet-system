@@ -1,0 +1,9 @@
++----------------------------------+
+|           Banking System         |
++----------------------------------+
+#All the source codes are in the src folder -> com.banksystem package
+#All the data stored in txt files (Customers.txt and Transactions.txt) are in the root directory
+#(IDE Used -> IntelliJ IDEA)
++----------------------------------+
+|             Thank You            |
++----------------------------------+

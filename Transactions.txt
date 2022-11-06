@@ -1,0 +1,9 @@
+rusiru_anjana!Withdraw!10000.0!990000.0
+rusiru_anjana!Deposit!50.0!990050.0
+ranul_hashika!Deposit!6000.0!262000.0
+rusiru_anjana!Withdraw!200.0!989850.0
+rusiru_anjana!Transfer!200.0!989650.0
+ranul_hashika!Deposit!200.0!262200.0
+rusiru_anjana!Transfer!500.0!989150.0
+ranul_hashika!Deposit!500.0!262700.0
+rusiru_anjana!Deposit!6000.0!995150.0
